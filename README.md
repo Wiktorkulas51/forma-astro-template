@@ -41,4 +41,3 @@ The source code and included FORMA demo graphics are available under the MIT Lic
 npm run ai:check
 npm run build
 ```
-
