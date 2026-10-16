@@ -4,6 +4,10 @@ FORMA is a free, bilingual Astro template for construction and renovation busine
 
 The public package uses neutral SVG image placeholders. Photography from the development demo is not included. Use **Use this template** on GitHub to start your own repository, or download the source ZIP from the **Code** menu.
 
+## Need help adapting FORMA?
+
+Need help adapting this template for your business? [Work with WebScale](https://webscale.pl/?utm_source=forma-readme&utm_medium=backlink&utm_campaign=t002-forma) for custom design, development and implementation support.
+
 ## Start
 
 Requirements: Node.js 22.12 or newer.
