@@ -6,7 +6,7 @@ The public package uses neutral SVG image placeholders. Photography from the dev
 
 ## Need help adapting FORMA?
 
-Need help adapting this template for your business? [Work with WebScale](https://webscale.pl/?utm_source=forma-readme&utm_medium=backlink&utm_campaign=t002-forma) for custom design, development and implementation support.
+Need help adapting this template for your business? [Work with WebScale](https://webscale.pl/?utm_source=forma-readme&utm_medium=backlink&utm_campaign=free-template-forma) for custom design, development and implementation support.
 
 ## Start
 
@@ -41,3 +41,4 @@ The source code and included FORMA demo graphics are available under the MIT Lic
 npm run ai:check
 npm run build
 ```
+
