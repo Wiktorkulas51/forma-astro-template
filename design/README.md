@@ -8,4 +8,4 @@ After changing the design token file, run:
 npm run design:sync
 ```
 
-Keep token names stable so existing components continue to work. Read `DESIGN_RULES.md` before changing the visual system.
+Keep token names stable so existing components continue to work. Read `../docs/DESIGN_RULES.md` before changing the visual system.

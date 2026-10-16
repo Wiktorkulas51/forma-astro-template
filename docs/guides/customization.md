@@ -77,4 +77,4 @@ Open the generated site on desktop and mobile before publishing.
 
 ## Deployment
 
-Set `PUBLIC_SITE_URL` and `PUBLIC_BASE_PATH` using `.env.example`, then run `npm run build`. Review `src/data/global/seo.json` before enabling indexing. The demo ships with indexing disabled. See `DEPLOYMENT.md` for the full process.
+Set `PUBLIC_SITE_URL` and `PUBLIC_BASE_PATH` using `.env.example`, then run `npm run build`. Review `src/data/global/seo.json` before enabling indexing. The demo ships with indexing disabled. See [the deployment guide](deployment.md) for the full process.
