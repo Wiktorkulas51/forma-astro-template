@@ -19,5 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-This license covers original FORMA source code, `public/logo.svg`, and the demo SVG placeholders. Third-party source and assets are excluded and keep their own licenses; see `ASSETS-LICENSES.md` and `THIRD-PARTY-NOTICES.md`.
