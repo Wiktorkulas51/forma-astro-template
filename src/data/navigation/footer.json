@@ -3,10 +3,10 @@
   "contactTitle": "Contact",
   "copyrightText": "All rights reserved.",
   "attribution": {
-    "label": "Built with FORMA",
-    "href": "https://github.com/Wiktorkulas51/forma-astro-template",
-    "prefix": "Created by",
-    "linkLabel": "FORMA template"
+    "label": "Template by WebScale",
+    "href": "https://webscale.pl/?utm_source=forma&utm_medium=backlink&utm_campaign=free-template",
+    "prefix": "Template by: ",
+    "linkLabel": "WebScale"
   },
   "aria": {
     "quickNav": "Quick links and documents",

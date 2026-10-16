@@ -1,6 +1,6 @@
 ---
 import Container from '@components/ui/layout/Container.astro';
-import company from '@data/global/company.json';
+import { company, footer as footerData } from '@data';
 import '../../../styles/footer.css';
 import { english, type Locale } from '../../../i18n';
 
@@ -28,7 +28,7 @@ const links = [
       <nav aria-label={locale === 'en' ? english.footer.aria : 'Stopka'}>
         {links.map((link) => <a href={link.href}>{link.label}</a>)}
       </nav>
-      <a class="footer-note footer-credit" href="https://github.com/Wiktorkulas51/forma-astro-template" target="_blank" rel="noopener noreferrer">{locale === 'en' ? english.footer.credit : 'Szablon FORMA'}</a>
+      <a class="footer-note footer-credit" href={footerData.attribution.href} target="_blank" rel="noopener noreferrer" aria-label={footerData.attribution.label}>{locale === 'en' ? footerData.attribution.prefix : 'Szablon: '}{footerData.attribution.linkLabel}</a>
     </div>
   </Container>
 </footer>
