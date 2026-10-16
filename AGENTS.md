@@ -1,6 +1,6 @@
 # Project instructions
 
-FORMA is a bilingual Astro site template for construction and renovation services. Read `README.md`, `AI-QUICKSTART.md` and the relevant files under `docs/ai/` before making changes.
+FORMA is a bilingual Astro site template for construction and renovation services. Read `README.md`, `docs/ai/quickstart.md` and the relevant files under `docs/ai/` before making changes.
 
 ## Sources of truth
 
@@ -19,7 +19,7 @@ FORMA is a bilingual Astro site template for construction and renovation service
 
 - Change JSON first for copy, navigation, metadata and section content.
 - Reuse existing UI components and keep internal links aligned with `src/pages/` routes.
-- Follow `DESIGN_RULES.md` for any visual change.
+- Follow `docs/DESIGN_RULES.md` for any visual change.
 - Keep demo content clearly identified and do not add private business data or unlicensed assets.
 - Do not commit `.env` files, build output, dependency directories or local reports.
 

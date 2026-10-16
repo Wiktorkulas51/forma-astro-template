@@ -12,7 +12,7 @@ npm run build
 
 The public check scans current source and documentation for private filesystem paths, local service URLs, secret assignments and known private project names. Review binary assets and Git history separately when adding files. Do not commit `.env` files, client data, private assets, build output or local reports.
 
-See `LICENSE.md` and `ASSETS-LICENSES.md` for the source code and asset terms.
+See [`../../LICENSE.md`](../../LICENSE.md) and [asset and license notes](../assets-and-licenses.md) for the source code and asset terms.
 
 ## Dependency audit, 2026-10-16
 

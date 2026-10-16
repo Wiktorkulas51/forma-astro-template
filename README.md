@@ -19,17 +19,17 @@ Astro serves the site at `http://localhost:4345`. To create a static production 
 npm run build
 ```
 
-The output is written to `dist/`. See [DEPLOYMENT.md](DEPLOYMENT.md) before publishing a customized site.
+The output is written to `dist/`. See the [deployment guide](docs/guides/deployment.md) before publishing a customized site.
 
 ## Customize
 
-Start with [CUSTOMIZATION.md](CUSTOMIZATION.md) and [CONTENT-GUIDE.md](CONTENT-GUIDE.md). Site details, navigation, SEO and homepage sections are stored in `src/data/`. Theme tokens are defined in `design/default.md`; run `npm run design:sync` after changing them.
+Start with the [customization guide](docs/guides/customization.md) and [content guide](docs/guides/content.md). Site details, navigation, SEO and homepage sections are stored in `src/data/`. Theme tokens are defined in `design/default.md`; run `npm run design:sync` after changing them.
 
 All business details, project descriptions and testimonials in the demo are fictional examples. Replace them with verified information and images you have permission to use. The contact form only validates locally and displays a demo confirmation. Connect and test a service before collecting inquiries.
 
 ## License
 
-The source code and included FORMA demo graphics are available under the MIT License. You may use the template in commercial projects and redistribute it, provided you include the copyright and permission notice. Third-party components and fonts retain their own licenses. See [LICENSE.md](LICENSE.md) and [ASSETS-LICENSES.md](ASSETS-LICENSES.md) for the full boundary.
+The source code and included FORMA demo graphics are available under the MIT License. You may use the template in commercial projects and redistribute it, provided you include the copyright and permission notice. Third-party components and fonts retain their own licenses. See [LICENSE.md](LICENSE.md) and [asset and license notes](docs/assets-and-licenses.md) for the full boundary.
 
 ## Checks
 

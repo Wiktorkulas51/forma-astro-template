@@ -12,4 +12,4 @@ The site imports Instrument Sans from `@fontsource-variable/instrument-sans`. Th
 
 ## Third-party code
 
-`src/components/starwind/` contains Starwind UI Astro components distributed under MIT. The included `THIRD-PARTY-NOTICES.md` preserves its copyright and license terms. Other npm packages and icon libraries are downloaded from the dependencies in `package-lock.json` and remain under their own licenses; review the package metadata and license files in `node_modules/` before redistributing a built bundle.
+`src/components/starwind/` contains Starwind UI Astro components distributed under MIT. The included [third-party notices](legal/third-party-notices.md) preserve its copyright and license terms. Other npm packages and icon libraries are downloaded from the dependencies in `package-lock.json` and remain under their own licenses; review the package metadata and license files in `node_modules/` before redistributing a built bundle.
