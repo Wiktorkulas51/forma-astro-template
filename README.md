@@ -4,9 +4,11 @@ FORMA is a free, bilingual Astro template for construction and renovation busine
 
 The public package uses neutral SVG image placeholders. Photography from the development demo is not included. Use **Use this template** on GitHub to start your own repository, or download the source ZIP from the **Code** menu.
 
+More templates for local businesses: [WebScale Astro templates](https://webscale.pl/en/astro-templates/?utm_source=github&utm_medium=readme&utm_campaign=forma-free).
+
 ## Need help adapting FORMA?
 
-Need help adapting this template for your business? [Work with WebScale](https://webscale.pl/?utm_source=forma-readme&utm_medium=backlink&utm_campaign=free-template-forma) for custom design, development and implementation support.
+Need help adapting this template for your business? [Work with WebScale](https://webscale.pl/?utm_source=github&utm_medium=readme&utm_campaign=forma-free) for custom design, development and implementation support.
 
 ## Start
 
@@ -30,6 +32,10 @@ The output is written to `dist/`. See the [deployment guide](docs/guides/deploym
 Start with the [customization guide](docs/guides/customization.md) and [content guide](docs/guides/content.md). Site details, navigation, SEO and homepage sections are stored in `src/data/`. Theme tokens are defined in `design/default.md`; run `npm run design:sync` after changing them.
 
 All business details, project descriptions and testimonials in the demo are fictional examples. Replace them with verified information and images you have permission to use. The contact form only validates locally and displays a demo confirmation. Connect and test a service before collecting inquiries.
+
+## More WebScale templates
+
+WebScale publishes more templates for local businesses in its [Astro template catalog](https://webscale.pl/en/astro-templates/?utm_source=github&utm_medium=readme&utm_campaign=forma-free), with source code included. Each template can be adapted to your brand, content and sections. [Need it set up for your business?](https://webscale.pl/en/quote/?utm_source=github&utm_medium=readme&utm_campaign=forma-free)
 
 ## License
 
