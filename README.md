@@ -4,6 +4,10 @@ FORMA is a free, bilingual Astro template for construction and renovation busine
 
 The public package uses neutral SVG image placeholders. Photography from the development demo is not included. Use **Use this template** on GitHub to start your own repository, or download the source ZIP from the **Code** menu.
 
+Live demo: https://webscale-forma.vercel.app/
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FWiktorkulas51%2Fforma-astro-template&project-name=forma-astro-template&repository-name=forma-astro-template)
+
 More templates for local businesses: [WebScale Astro templates](https://webscale.pl/en/astro-templates/?utm_source=github&utm_medium=readme&utm_campaign=forma-free).
 
 ## Need help adapting FORMA?

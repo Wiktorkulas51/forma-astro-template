@@ -6,7 +6,12 @@ const DEFAULT_BASE_PATH = '/';
 const configuredSiteUrl = process.env.PUBLIC_SITE_URL?.trim();
 const configuredBasePath = process.env.PUBLIC_BASE_PATH?.trim();
 
-export const SITE_URL = configuredSiteUrl || DEFAULT_SITE_URL;
+// Why: a "Deploy to Vercel" clone gets a correct canonical URL without extra setup.
+const vercelSiteUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
+  ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}/`
+  : '';
+
+export const SITE_URL = configuredSiteUrl || vercelSiteUrl || DEFAULT_SITE_URL;
 export const SITE_BASE_PATH =
   configuredBasePath || (process.env.NODE_ENV === 'production' ? DEFAULT_BASE_PATH : '/');
 export const ACTIVE_TEMPLATE = 'default';
