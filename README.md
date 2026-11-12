@@ -10,6 +10,10 @@ Live demo: https://webscale-forma.vercel.app/
 
 More templates for local businesses: [WebScale Astro templates](https://webscale.pl/en/astro-templates/?utm_source=github&utm_medium=readme&utm_campaign=forma-free).
 
+## Animated versions on onepaste
+
+Want these designs with scroll animations, micro-interactions and copy-paste prompts to rebuild them with AI (Lovable, v0, Bolt, Claude, Cursor)? We're developing them further at [onepaste](https://onepaste.dev/?utm_source=github&utm_medium=referral&utm_campaign=forma-astro-template). Some templates are free.
+
 ## Need help adapting FORMA?
 
 Need help adapting this template for your business? [Work with WebScale](https://webscale.pl/?utm_source=github&utm_medium=readme&utm_campaign=forma-free) for custom design, development and implementation support.
