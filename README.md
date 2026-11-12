@@ -12,6 +12,8 @@ More templates for local businesses: [WebScale Astro templates](https://webscale
 
 ## Animated versions on onepaste
 
+[![onepaste: animated websites with copy-paste prompts](https://raw.githubusercontent.com/Wiktorkulas51/webscale-templates/master/assets/onepaste/onepaste-preview.gif)](https://onepaste.dev/?utm_source=github&utm_medium=referral&utm_campaign=forma-astro-template)
+
 Want these designs with scroll animations, micro-interactions and copy-paste prompts to rebuild them with AI (Lovable, v0, Bolt, Claude, Cursor)? We're developing them further at [onepaste](https://onepaste.dev/?utm_source=github&utm_medium=referral&utm_campaign=forma-astro-template). Some templates are free.
 
 ## Need help adapting FORMA?
